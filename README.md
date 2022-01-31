@@ -7,3 +7,10 @@
 * Wordprocessing
 
 ## Unit 2
+* Keras
+* Tensorflow
+* Nerual Nets
+
+## Unit 3
+* LSTM
+* RNN
